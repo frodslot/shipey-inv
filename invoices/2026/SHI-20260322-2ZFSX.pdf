@@ -1,0 +1,87 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 785 >>
+stream
+BT
+/F1 12 Tf
+50 780 Td
+14 TL
+(INVOICE) Tj
+T*
+(Invoice Number: SHI-20260322-2ZFSX) Tj
+T*
+(Date of Issue: March 22, 2026) Tj
+T*
+(Date Due: March 22, 2026) Tj
+T*
+(FROM) Tj
+T*
+(Shipey LLC) Tj
+T*
+(3132 East Locust Avenue) Tj
+T*
+(Orange, California 92867) Tj
+T*
+(United States) Tj
+T*
+(+1 844-474-4739) Tj
+T*
+(BILL TO) Tj
+T*
+(Emma Tolsdorf) Tj
+T*
+(emma.tolsdorf@gmail.com) Tj
+T*
+(\(403\) 357-8326) Tj
+T*
+(3132 East Locust Avenue) Tj
+T*
+(Amount Due: $510.00) Tj
+T*
+(DESCRIPTION) Tj
+T*
+(12 Yard dumpster rental, 2 day rental) Tj
+T*
+(Service address: 3132 East Locust Avenue) Tj
+T*
+(Qty: 1) Tj
+T*
+(Base Price: $430.00) Tj
+T*
+(Dump Fee: $80.00) Tj
+T*
+(Subtotal: $510.00) Tj
+T*
+(Total: $510.00) Tj
+T*
+(Amount Due: $510.00) Tj
+T*
+(Payment Link: https://buy.stripe.com/9B6dR8dN02aIgCn34p3F601) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1147
+%%EOF
